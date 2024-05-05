@@ -4,6 +4,8 @@
 Claim your $FLT tokens with this script.
 To claim $FLT, you have to transfer you have to transfer your $FLT-DROP
 
+![Terminal screen example](example.png)
+
 ## Features:
 - View how many $FLT-DROP you have
 - View in how many times you can claim
